@@ -40,7 +40,7 @@ plastic, flat, flat-square, for-the-badge, social
 
 <br>
 <br>
-<a href="링크"><img src="https://img.shields.io/badge/VISUAL STUDIO-5C2D91?style=flat-square&logo=VISUAL STUDIO&logoColor=white"/></a>
+<a href="링크"><img src="https://img.shields.io/badge/VISUAL STUDIO-5C2D91?style=flat-square&logo=VISUAL STUDIO&logoColor=white"/></a>  🆔 2️⃣ 🥇 :one = 1️⃣
 <br>
 <br>
 <br>
